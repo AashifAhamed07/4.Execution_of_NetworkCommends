@@ -46,7 +46,27 @@ This commands includes
 
 ## nslookup
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1c5432ab-2c63-4dde-8f15-3c77c94aed65" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1accaec8-5121-4482-8d41-5f15be2ac8c1" />
+
+## getmac
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6b6a6e3e-9d74-413e-9937-05372ec56ccb" />
+
+## hostname
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5eddb730-44a4-475c-b77b-fd0984f2b7a5" />
+
+## nbtstat
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8b9285f4-4de2-4aa1-b451-a296955958d9" />
+
+## arp
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/968336b8-201a-4b57-9a14-9fad6601ccc2" />
+
+## systeminfo
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6ffac156-243c-44c0-aefe-4792163cfacf" />
 
 ## Result
 Thus Execution of Network commands Performed 
