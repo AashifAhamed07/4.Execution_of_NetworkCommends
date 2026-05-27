@@ -28,5 +28,25 @@ This commands includes
 
 ## Output
 
+## netstat
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2600452c-f027-4246-ba20-e57cbbbc6fbb" />
+
+## ipconfig
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/244c9587-2667-42a9-8cb7-9e0169d70d4f" />
+
+## ping
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b36d730-a796-4061-b6e4-35d531b95314" />
+
+## tracert
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/781b5fb9-137b-4c91-9217-b7374b7e110a" />
+
+## nslookup
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1c5432ab-2c63-4dde-8f15-3c77c94aed65" />
+
 ## Result
 Thus Execution of Network commands Performed 
